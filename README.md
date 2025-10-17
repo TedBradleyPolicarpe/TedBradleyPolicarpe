@@ -3,9 +3,14 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 
-- <b>Front-End Web App (React, Javascript, Html)</b>
+- <b>Front-End Website (React, Javascript, Html)</b>
   - [ReactStream](https://github.com/TedBradleyPolicarpe/Projet-streaming-) </i>
-  
+
+  - <b>Full-Stack Blog Website (NodeJs, Javascript, Html)</b>
+    - [ReactStream](https://github.com/TedBradleyPolicarpe/Projet-streaming-) </i>
+
+  - <b>Etsy Wallpaper Generator (Api Open ai, Javascript, N8N )</b>
+    - [ReactStream](https://github.com/TedBradleyPolicarpe/Projet-streaming-) </i>
 
 
 <h2> 🤳 Connect with me:</h2>
