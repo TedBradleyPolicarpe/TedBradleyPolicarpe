@@ -4,7 +4,7 @@
 
 
 - <b>Front-End Web App (React, Javascript, Html)</b>
-  - [Streaming web](https://github.com/TedBradleyPolicarpe/Projet-streaming-) </i>
+  - [ReactStream](https://github.com/TedBradleyPolicarpe/Projet-streaming-) </i>
   
 
 
