@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 
-- <b>Full Stack Web App (React, Javascript, Html)</b>
+- <b>Front-End Web App (React, Javascript, Html)</b>
   - [Streaming web](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   
 
