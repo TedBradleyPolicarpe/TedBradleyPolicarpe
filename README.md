@@ -15,7 +15,7 @@
 
 
 
-[linkedin]: (linkedin.com/in/ted-bradley-policarpe-a812a51b2)
+[linkedin]: linkedin.com/in/ted-bradley-policarpe
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
