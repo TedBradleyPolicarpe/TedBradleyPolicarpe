@@ -7,7 +7,7 @@
   - [ReactStream](https://github.com/TedBradleyPolicarpe/Projet-streaming-) </i>
 
 - <b>Full-Stack Blog Website (NodeJs, Javascript, Html)</b>
-  - [Blog](https://github.com/TedBradleyPolicarpe/Projet-streaming-) </i>
+  - [Blog](https://github.com/TedBradleyPolicarpe/Blog-Full-stack) </i>
 
 - <b>Etsy Wallpaper Generator (Api Open ai, Javascript, N8N )</b>
   - [WallpaperGenerator](https://github.com/TedBradleyPolicarpe/Blog-Full-stack) </i>
