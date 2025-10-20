@@ -9,9 +9,6 @@
 - <b>Full-Stack Blog Website (NodeJs, Javascript, Html)</b>
   - [Blog](https://github.com/TedBradleyPolicarpe/Blog-Full-stack) </i>
 
-- <b>Etsy Wallpaper Generator (Api Open ai, Javascript, N8N )</b>
-  - [WallpaperGenerator](https://github.com/TedBradleyPolicarpe/Blog-Full-stack) </i>
-
 
 <h2> 🤳 Connect with me:</h2>
 
