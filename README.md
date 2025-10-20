@@ -10,7 +10,7 @@
   - [Blog](https://github.com/TedBradleyPolicarpe/Projet-streaming-) </i>
 
 - <b>Etsy Wallpaper Generator (Api Open ai, Javascript, N8N )</b>
-  - [WallpaperGenerator](https://github.com/TedBradleyPolicarpe/Projet-streaming-) </i>
+  - [WallpaperGenerator](https://github.com/TedBradleyPolicarpe/Blog-Full-stack) </i>
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -20,7 +20,7 @@
 
 
 
-[linkedin]: linkedin.com/in/ted-bradley-policarpe
+[linkedin]: https://linkedin.com/in/ted-bradley-policarpe
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
