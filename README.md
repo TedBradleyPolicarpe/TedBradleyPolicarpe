@@ -6,11 +6,11 @@
 - <b>Front-End Website (React, Javascript, Html)</b>
   - [ReactStream](https://github.com/TedBradleyPolicarpe/Projet-streaming-) </i>
 
-  - <b>Full-Stack Blog Website (NodeJs, Javascript, Html)</b>
-    - [ReactStream](https://github.com/TedBradleyPolicarpe/Projet-streaming-) </i>
+- <b>Full-Stack Blog Website (NodeJs, Javascript, Html)</b>
+  - [Blog](https://github.com/TedBradleyPolicarpe/Projet-streaming-) </i>
 
-  - <b>Etsy Wallpaper Generator (Api Open ai, Javascript, N8N )</b>
-    - [ReactStream](https://github.com/TedBradleyPolicarpe/Projet-streaming-) </i>
+- <b>Etsy Wallpaper Generator (Api Open ai, Javascript, N8N )</b>
+  - [WallpaperGenerator](https://github.com/TedBradleyPolicarpe/Projet-streaming-) </i>
 
 
 <h2> 🤳 Connect with me:</h2>
